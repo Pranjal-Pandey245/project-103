@@ -1,0 +1,2 @@
+face_recognition_project_model_link.txt.
+https://teachablemachine.withgoogle.com/models/0JDSAr0rc/
